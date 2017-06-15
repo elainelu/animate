@@ -1,19 +1,19 @@
 
-## Installation
+##Installation
 
 To install via Bower, simply do the following:/Users/elainelu/Desktop/animate.css-master/README.md
 
 ```bash
 $ bower install animate.css --save
 ```
-or you can install via npm:
+or install via npm:
 
 ```bash
 $ npm install animate.css --save
 ```
 
 ##Basic Usage
-1. Include the stylesheet on your document's `<head>`
+1. Include this stylesheet on your document's `<head>`
 
   ```html
   <head>
@@ -27,6 +27,6 @@ $ npm install animate.css --save
   </head>
   ```
 
-## License
-Animate.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+##License
+http://opensource.org/licenses/MIT
 
